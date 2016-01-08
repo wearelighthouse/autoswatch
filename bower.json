@@ -1,0 +1,6 @@
+{
+  "name": "AutoSwatch",
+  "dependencies": {
+    "clipboard": "~1.5.5"
+  }
+}
