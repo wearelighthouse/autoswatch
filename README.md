@@ -1,6 +1,6 @@
 # AutoSwatch
 
-![alt tag](http://wearelighthouse.com/wp-content/uploads/2016/01/Artboard-1.png)
+![Autoswatch Colour Explanation](http://wearelighthouse.com/wp-content/uploads/2016/01/Artboard-1.png)
 
 Variables don't help you find the colour you're looking for.
 
